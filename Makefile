@@ -3,7 +3,7 @@ BOARD_TAG = arduino:avr:uno
 PORT = /dev/ttyUSB0
 CORE = arduino:avr
 FQBN = $(BOARD_TAG)
-TARGET = Tumbalatas
+TARGET = tumbalatas
 
 # Actions
 compile:
